@@ -1,6 +1,6 @@
 <div align="center"><a href="https://github.com/naifxe"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=33F7F5&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I+am+naifxe+;Welcome+to+my+Github" alt="Typing SVG" /></a></div>  
-
-<details close> <summary><h2>📊 Github Stats and Activity</h2>![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) |</summary>
+![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) |
+<details close> <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
 
