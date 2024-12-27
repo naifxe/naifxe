@@ -17,6 +17,9 @@
   <a href="https://github.com/naifxe"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=naifxe&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 </details>
 </details>
+![](https://img.shields.io/badge/Java-1.8-brightgreen)
+![](https://img.shields.io/badge/Python-3.7-brightgreen)
+![](https://img.shields.io/badge/Html-15-brightgreen)
 <br><br><br>**History Views**：![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) |
 
 
