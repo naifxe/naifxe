@@ -19,7 +19,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/naifxe/count.svg) |
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%" />
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400" />
 
 
 
