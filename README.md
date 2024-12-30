@@ -1,2 +1,2 @@
-![Metrics](/github-metrics.svg)
-![Visitor Count](https://profile-counter.glitch.me/naifxe/count.svg)
+![Metrics](/github-metrics.svg)![Visitor Count](https://profile-counter.glitch.me/naifxe/count.svg)
+
